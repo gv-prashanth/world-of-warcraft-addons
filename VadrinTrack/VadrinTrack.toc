@@ -1,0 +1,6 @@
+## Interface: 70300
+## Title: VadrinTrack
+## Notes: Addon to Track your party members.
+## Author: Vadrin
+##Dependencies: TomTom
+VadrinTrack.xml

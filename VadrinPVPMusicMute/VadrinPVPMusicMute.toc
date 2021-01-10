@@ -1,0 +1,11 @@
+## Interface: 70300
+
+## Title: VadrinPVPMusicMute
+
+## Version: 1.2
+
+## Notes: Mutes the background music whenever you enter an Arena or Battleground.
+
+## Author: Vadrin
+
+VadrinPVPMusicMute.lua
