@@ -11,7 +11,7 @@ A World of Warcraft addon which mutes game music as soon as you enter a BG or Ar
 A World of Warcraft addon which points you to your loved ones.
  
 ## Steps to Install
-Download from https://github.com/gv-prashanth/world-of-warcraft-addons/releases/tag/1.0.0/ <br />
+Download from https://github.com/gv-prashanth/world-of-warcraft-addons/releases/tag/V1.0.0 <br />
 Extract the zip file <br />
 Copy the folder to WoW Addons folder
 
