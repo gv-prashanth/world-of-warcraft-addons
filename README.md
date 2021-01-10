@@ -18,4 +18,4 @@ Copy the folder to WoW Addons folder
 ## How to use
 Enable the addon <br />
 Login to game <br />
-Type /ppm for PickPocketManager
+Type /ppm for PickPocketManager. The other addons donot support any commands
